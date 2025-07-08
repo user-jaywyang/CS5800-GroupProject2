@@ -3,6 +3,8 @@
 # Dynamic Programming Problem 1: House Robber (Leetcode 198)
 # This script reads JSON input for the 'House Robber' problem, runs the algorithm, and creates a timing graph.
 
+# RUN BY ENTERING "python house_robber.py house_robber_input.json" IN COMMAND LINE
+
 import json
 import time
 import sys
