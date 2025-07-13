@@ -1,4 +1,7 @@
-
+// Abhilash Singh,  Alex Williams,  Jay Yang
+// CS5800 - Summer 2025 - Group Project
+// Dynamic Programming Problem 2: Longest Common Subsequence (Leetcode 1143)
+// This script takes two input strings and returns the Longest Common Subsequence between them
 
 #include "LCS.hpp"
 
